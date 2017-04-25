@@ -1,0 +1,1 @@
+CREATE ASSEMBLY [SPListWithSQLCLR.XmlSerializers] from 'D:\Development\SPListWithSQLCLR\bin\Debug\SPListWithSQLCLR.XmlSerializers.dll'

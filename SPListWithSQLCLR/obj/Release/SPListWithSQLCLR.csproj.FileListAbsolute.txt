@@ -1,0 +1,5 @@
+C:\Documents and Settings\v-kevsh\Desktop\splistwithsqlclr\Development\SPListWithSQLCLR\bin\Release\SPListWithSQLCLR.dll
+C:\Documents and Settings\v-kevsh\Desktop\splistwithsqlclr\Development\SPListWithSQLCLR\bin\Release\SPListWithSQLCLR.XmlSerializers.dll
+C:\Documents and Settings\v-kevsh\Desktop\splistwithsqlclr\Development\SPListWithSQLCLR\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\v-kevsh\Desktop\splistwithsqlclr\Development\SPListWithSQLCLR\obj\Release\SPListWithSQLCLR.dll
+C:\Documents and Settings\v-kevsh\Desktop\splistwithsqlclr\Development\SPListWithSQLCLR\obj\Release\SPListWithSQLCLR.XmlSerializers.dll
